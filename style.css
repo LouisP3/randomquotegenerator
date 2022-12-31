@@ -30,3 +30,11 @@
     justify-content: center;
 }
 
+.btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
